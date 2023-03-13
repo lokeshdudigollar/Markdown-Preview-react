@@ -1,0 +1,32 @@
+.col-md-5 {
+  border: 1px solid pink;
+  width: 600px;
+  margin: 10px auto;
+}
+#editor {
+  border: none;
+  width: 595px;
+  height: 310px;
+  background-color: lightcyan;
+}
+
+#preview {
+  border: 1px solid blue;
+  width: 300px;
+  height: 300px;
+}
+
+body {
+  background-color: lightcyan;
+}
+
+#markdown1 {
+  border: 1px solid blue;
+  width: auto;
+  margin: 10px auto;
+}
+.head-tag {
+  background-color: #4aa3a3;
+  margin: 0;
+  border: 1px solid blue;
+}
